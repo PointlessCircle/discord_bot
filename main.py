@@ -46,9 +46,12 @@ global bannedWords
 #
 
 #Value
-delete_edit_channel = 1166468529449615471
-welcome_channel = 1064697045505548352
-audit_log_channel = 1175899240438964307
+
+#To get the channel id please refer to this wikipedia post https://en.wikipedia.org/wiki/Template:Discord_channel#:~:text=To%20get%20the%20channel%2Fserver,to%20get%20the%20guild%20ID.
+
+delete_edit_channel =            #Paste in channel id
+welcome_channel =                #Paste in channel id
+audit_log_channel =              #Paste in channel id
 
 #Enable/Disable Commands
 
