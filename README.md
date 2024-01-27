@@ -70,11 +70,6 @@ URL will the url you copied from replit
 Click on **Create Monitor**
 
 
-# Congrats you finished!
+# Congrats, you finished!
 
 ***If you have any issues, create an issue on Github!***
-
-
-
-
-
